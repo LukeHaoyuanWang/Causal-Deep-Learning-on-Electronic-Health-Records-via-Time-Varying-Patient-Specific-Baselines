@@ -1,0 +1,2 @@
+# Causal-Deep-Learning-on-Electronic-Health-Records-via-Time-Varying-Patient-Specific-Baselines
+ Our goal is to investigate causal modeling mechanisms in deep learning from electronic health records (EHRs).This project specifically aims to alleviate the problem above by considering time-varying patient-specific baselines as part of the predictive model. These baselines are trained alongside the parameters of the underlying neural network. 
