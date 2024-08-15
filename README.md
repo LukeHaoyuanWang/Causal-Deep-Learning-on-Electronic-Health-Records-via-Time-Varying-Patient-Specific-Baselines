@@ -1,4 +1,5 @@
 # Causal-Deep-Learning-on-Electronic-Health-Records-via-Time-Varying-Patient-Specific-Baselines
+## Project Description
   Our goal is to investigate causal modeling mechanisms in deep learning from electronic health records (EHRs). Deep sequence models are achieving remarkable accuracy in medical prediction. Still, when we learn a deep sequence model to predict a future event, such as myocardial infarction (MI, or heart attack) from EHR data, often some of the most predictive variables are treatments to prevent that event or condition or reduce its severity. As a concrete example, a top predictor for MI is beta blocker prescription—has the patient been prescribed a beta blocker? Although the beta blocker prescription reduces MI risk, it predicts increased MI risk simply because it indicates the clinician already knows the patient is at risk for MI.
 
  
