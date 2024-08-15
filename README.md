@@ -5,3 +5,5 @@
  
 
 This project specifically aims to alleviate the problem above by considering time-varying patient-specific baselines as part of the predictive model. These baselines are trained alongside the parameters of the underlying neural network model, allowing for an efficient method of identifying to what extent each patient's key properties contribute to future health outcomes. The patient-specific baselines need to be regularized or constrained to limit the discrepancy between population-level and patient-level baselines, as well as the difference between each patient's baselines at consecutive points over time.
+
+![image](https://github.com/user-attachments/assets/c7e8339b-2c7b-4cfa-8311-28b15a3ad5c5)
